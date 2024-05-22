@@ -1,5 +1,3 @@
-# zap-vuln-scan
-
 # Automatización de Análisis de Vulnerabilidades Web con OWASP ZAP y Python
 
 ## Descripción
